@@ -180,20 +180,20 @@ html{
         margin: 0;
         padding: 0;
         top: 0; right: 0; left: 0; bottom: 0;
-        background: url("/assets/img/bg/adobe-photoshop-apple-books-56759.jpg") repeat center ;
+        background: url("/assets/img/bg/aerial-android-wallpaper-373912.jpg") repeat center ;
         background-size: 200%;
         z-index: -1;
-        filter: blur(50px);
+        filter: blur(15px);
     }
 
 
     #visite-card, #photo{
     background-color: rgba(43, 42, 40, 0.568); 
     position: absolute;
-    width: 90vw;
-    max-width: 90vw;  
-    height: 90vh; 
-    max-height: 90vh;
+    width: 95%;
+    max-width: 95%;  
+    height: 95%; 
+    max-height: 95%;
     top: 50%; 
     left: 50%;
     transform: translate(-50%, -50%) rotateY(0deg);
