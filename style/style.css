@@ -180,10 +180,10 @@ html{
         margin: 0;
         padding: 0;
         top: 0; right: 0; left: 0; bottom: 0;
-        background: url("/assets/img/bg/aerial-android-wallpaper-373912.jpg") repeat center ;
+        background: url("/assets/img/bg/app-background-blur-545331.jpg") repeat center ;
         background-size: 200%;
         z-index: -1;
-        filter: blur(15px);
+        filter: blur(0px);
     }
 
 
