@@ -216,7 +216,9 @@ html{
     transform-origin: center;
     box-shadow: 0 0 60px #000000;   
 }
-@media screen and (orientation: landscape) {
+}
+
+@media screen and (max-width : 812px) and (orientation: landscape) {
 
     #photo{
     width: 95vw;
@@ -270,5 +272,4 @@ span{
     text-shadow: 0 0 5px #131314;
 }
 
-}
 }
