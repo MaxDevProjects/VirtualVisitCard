@@ -53,8 +53,8 @@ html{
     position: absolute;
     width: 22rem;
     max-width: 22rem;  
-    height: 30rem; 
-    max-height: 30rem;
+    height: 32rem; 
+    max-height: 32rem;
     top: 50%; 
     left: 50%;
     transform: translate(-50%, -50%) rotateY(0deg);
@@ -69,8 +69,8 @@ html{
     position: absolute;
     width: 22rem;
     max-width: 22rem;  
-    height: 30rem; 
-    max-height: 30rem;
+    height: 32rem; 
+    max-height: 32rem;
     top: 50%; 
     left: 50%;
     transform: translate(-50%, -50%) rotateY(0deg);
@@ -283,7 +283,7 @@ html{
 }
 
 #moi>img{
-    padding: 5%;
+    padding: 3%;
 }
 
 span{
